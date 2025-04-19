@@ -1,7 +1,8 @@
 {
   "advertisements": [
     {
-      "imageUrl": "https://github.com/username/repository_name/raw/main/path_to_image/advertisement1.jpg",
+      "type": "image",
+      "Url": "https://github.com/username/repository_name/raw/main/path_to_image/advertisement1.jpg",
       "duration": 10000,
       "mandatory": true
     }

@@ -1,4 +1,5 @@
 {
-    "adImageURL": "https://path_to_your_image_or_video.jpg",
+    "adImageURL": "https://github.com/radin-r/app_driverinfo/blob/main/ad.jpeg",
     "adDuration": 10
+    "mandatory": true
 }

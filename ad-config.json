@@ -1,5 +1,9 @@
 {
-    "adImageURL": "https://github.com/radin-r/app_driverinfo/blob/main/ad.jpeg",
-    "adDuration": 10
-    "mandatory": true
+  "advertisements": [
+    {
+      "imageUrl": "https://github.com/radin-r/app_driverinfo/blob/main/ad.jpeg",
+      "duration": 10000,
+      "mandatory": true
+    }
+  ]
 }

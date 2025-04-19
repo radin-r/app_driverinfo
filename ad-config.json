@@ -2,7 +2,7 @@
   "advertisements": [
     {
       "type": "image",
-      "Url": "https://github.com/username/repository_name/raw/main/path_to_image/advertisement1.jpg",
+      "Url": "https://raw.githubusercontent.com/radin-r/app_driverinfo/main/ad.jpeg",
       "duration": 10000,
       "mandatory": true
     }
